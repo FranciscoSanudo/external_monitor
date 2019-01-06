@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# This is a configuration for my self in order to get it done in every Linux Machine I Have
 
 import os
 
